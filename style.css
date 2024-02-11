@@ -1,0 +1,52 @@
+body {
+   background-image: url(https://st3.depositphotos.com/6195590/14935/v/600/depositphotos_149355860-stock-illustration-seamless-vector-pattern-with-paper.jpg)
+}
+h1{
+    background-color:#ffffff;
+    border-bottom:10px solid #a1cbce;
+    border-top:10px solid #a1cbce;
+    padding: 6px;
+    color: #000000;
+    text-align: center;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    background-color:#e6fdff ;
+    border-top:10px double #000000;
+    border-bottom:6px solid #a1cbce;
+}
+nav a{
+    color:#2d4546 ;
+    padding: 6px;
+    text-decoration: none;
+
+}
+nav:visited{
+    color: white;
+}
+footer h4{
+    background-color: #e6fdff;
+    border-bottom:10px double #000000;
+    border-top:10px double #000000;
+    color: #415052;
+   
+}
+img{
+    width: 560px;
+    border: 5px solid #000000;
+}
+.autor{
+    background-color: #e6fdff;
+    color: #384a4b;
+    position: fixed;
+    top: 0px;
+    border: 2px black solid;
+    padding: 4px;
+    border-top: double 5px black;
+    
+}
+.centered{
+    display:  flex;
+    justify-content: center;
+}
